@@ -1,0 +1,8 @@
+#ignorar carpeta dist
+dist
+#ignorar carpeta de libreria
+GabrielDiazCalculadoraAlgebraicaMatricial.egg-info
+#ignorar archivos de configuracion de pypirc
+.pypirc
+#ignorar carpeta target
+mi_calculadora_de_ecuaciones_lineales___no_lineales.egg-info

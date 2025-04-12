@@ -1,8 +1,9 @@
-import readme
 from setuptools import setup, find_packages
 
+readme = open("./README.md", "r", encoding="utf-8")
+
 setup(
-    name="mi_calculadora_de_ecuaciones_lineales_&_no_lineales",
+    name="GabrielDiazCalculadoraAlgebraicaMatricial",
     version="0.1.0",
     description="Una librería para resolver sistemas de ecuaciones lineales y no lineales",
     long_description=readme.read(),
